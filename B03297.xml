@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The emblem of our King. And of the Scots and English Parliaments : a poem. / By a well wisher to King, and Parliaments.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03297</idno>
+            <idno type="STC">Wing E702</idno>
+            <idno type="STC">ESTC R171939</idno>
+            <idno type="EEBO-CITATION">53981649</idno>
+            <idno type="OCLC">ocm 53981649</idno>
+            <idno type="VID">180215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180215)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2820:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The emblem of our King. And of the Scots and English Parliaments : a poem. / By a well wisher to King, and Parliaments.</title>
+               </titleStmt>
+               <extent>[2], 3-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Reid,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Acrostic verse.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>The proemium, or introduction -- Scotlands first address to the King -- Scotland's or Affrica Companys second address to the King -- Scotland's, or African-Company's third and last address to his Majesty, presented by the Lord Ross, and others -- A dialogue, betwixt King, House of Peers, the Parliament, and House of Commons -- The authors wish or desiderium.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term>England and Wales. --  Parliament --  Poetry.</term>
+               <term>Scotland. --  Parliament --  Poetry.</term>
+               <term>Poetry, English --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180215:1" rendition="simple:additions"/>
+            <p>The Emblem of Our KING; And of the SCOTS and ENGLISH PARLIAMENTS: A POEM <q xml:lang="lat">
+                  <l>Dulce et Decorum eſt pro Patriâ mori.</l> 
+                  <bibl>Horatius.</bibl>
+               </q>
+            </p>
+            <p>By a well Wiſher to King, and Parliaments.</p>
+            <q xml:lang="lat">
+               <l>Regum timendorum in proprios greges</l>
+               <l>Reges in ipſos Imperium eſt Jovis.</l> 
+               <bibl>Horatius.</bibl>
+            </q>
+            <q xml:lang="lat">
+               <l>Ecce ſilet Maris unda, ſilent et flamina venti</l>
+               <l>Haud tamen intra noſtra ſilent precordia curae.</l>
+               <bibl>Theocritus</bibl>
+            </q>
+            <q xml:lang="lat">
+               <l>Honor fugacem perſeq<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Fugit ſequacem: ſi fugis occupat</l>
+               <l>Ut Umbra, venanteſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ludit</l>
+               <l>Niliacâ Crocodilus alga.</l>
+               <bibl>Hermanus Hugo.</bibl>
+            </q>
+            <q xml:lang="lat">
+               <l>Vive, Vale, ſi quid noviſti rectius iſtis,</l>
+               <l>Candidus imperti: ſi non, his utere mecum.</l>
+               <bibl>Horatius</bibl>
+            </q>
+            <p>EDINBURGH, Printed by <hi>John Reid</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:180215:2"/>
+            <pb n="3" facs="tcp:180215:2"/>
+            <div type="introduction">
+               <head>The <hi>PROEMIUM,</hi> OR INTRODUCTION.</head>
+               <lg n="1">
+                  <head>(1)</head>
+                  <l>IF <hi>King</hi>'s by <hi>Birth</hi> and <hi>Right</hi> do not mantain</l>
+                  <l>Their <hi>Crowns</hi> and <hi>Scepters,</hi> and by <hi>Love</hi> do Reign;</l>
+                  <l>If <hi>David, Saul</hi> or <hi>Solomon</hi> did Sway</l>
+                  <l>Their <hi>Scepters</hi> by their <hi>Subjects</hi> word obey,</l>
+                  <l>And not by the <hi>Decree</hi> of GOD alone:</l>
+                  <l>Let <hi>Angles</hi> Call <hi>Three Parliaments</hi> in <hi>One.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>(2)</head>
+                  <l>
+                     <label>N</label> Nothing is found in <hi>Scripture</hi> to Defend</l>
+                  <l>Or yet a Shaddow to this <hi>Thame</hi> extend;</l>
+                  <l>That <hi>Kings</hi> be Govern'd by a <hi>Parliament;</hi>
+                  </l>
+                  <l>Except a Council given us be of <hi>Trent:</hi>
+                  </l>
+                  <l>For <hi>Samuel</hi> ſurely by GOD's ſure <hi>Decree</hi>
+                  </l>
+                  <l>Anointed <hi>Saul</hi> a <hi>Monarch</hi> for to be</l>
+               </lg>
+               <lg n="3">
+                  <head>(3)</head>
+                  <l>
+                     <label>G</label> Goodneſs alone of <hi>Love</hi> and <hi>Charitie</hi>
+                  </l>
+                  <l>And great Compaſſion mov'd the <hi>Trinity,</hi>
+                  </l>
+                  <l>To come from their <hi>Abyſs</hi> of Happineſs,</l>
+                  <l>And make the <hi>Fabrick</hi> of this <hi>Univerſe;</hi>
+                  </l>
+                  <l>Who could have liv'd perpetually in <hi>Bliſs,</hi>
+                  </l>
+                  <l>Without our <hi>Praiſes</hi> or a <hi>ficunt born Wiſh.</hi>
+                  </l>
+               </lg>
+               <lg n="4">
+                  <head>(4)</head>
+                  <l>
+                     <label>R</label> Rich was this Love of GOD (the <hi>Bleſſed Three)</hi>
+                  </l>
+                  <l>But our <hi>Redemption</hi> by <hi>Immanuel</hi> ſee;</l>
+                  <l>The firſt (to wit <hi>Creation)</hi> was but <hi>Love,</hi>
+                  </l>
+                  <l>The ſecond only the <hi>Extent</hi> doth prove:</l>
+                  <pb n="4" facs="tcp:180215:3"/>
+                  <l>A third then take with you, a <hi>Noah</hi>'s Race,</l>
+                  <l>How <hi>Providence</hi> Governs all here by <hi>Grace.</hi>
+                  </l>
+               </lg>
+               <lg n="5">
+                  <head>(5)</head>
+                  <l>
+                     <label>A</label> At laſt ſhall I Commemorate <hi>Chriſt</hi>'s <hi>Death</hi>
+                  </l>
+                  <l>Who dy'd upon a Croſs for Mortal Breath;</l>
+                  <l>Who took upon him our Mortalitie</l>
+                  <l>And was an Emblem of Humilitie,</l>
+                  <l>Who, (ſin excepted) paralleled a <hi>Man</hi>
+                  </l>
+                  <l>In likeneſs, yet in Graces bore the Van.</l>
+               </lg>
+               <lg n="6">
+                  <head>(6)</head>
+                  <l>
+                     <label>T</label> This GOD has kept His <hi>Church</hi> from <hi>Peter</hi>'s <hi>time</hi>
+                  </l>
+                  <l>In Chains of Gold, moſt perfect, through the <hi>Rhene,</hi>
+                  </l>
+                  <l>And <hi>France</hi> and <hi>Rome</hi> and <hi>Flanders, Germanie</hi>
+                  </l>
+                  <l>Do Harbour <hi>Papiſts</hi> to a vaſt degree:</l>
+                  <l>Yet <hi>Scotland, England, Ireland</hi> do poſſeſs</l>
+                  <l>
+                     <hi>St John's Religion</hi> free of <hi>Munick Maſs.</hi>
+                  </l>
+               </lg>
+               <lg n="7">
+                  <head>(7)</head>
+                  <l>
+                     <label>I</label> 
+                     <hi>Ingratitude,</hi> by all Men hatted be;</l>
+                  <l>To whom (next unto GOD) our <hi>Libertie</hi>
+                  </l>
+                  <l>Doth <hi>Scotland, England,</hi> and Old <hi>Ireland</hi> to</l>
+                  <l>But unto Great <hi>King William</hi> humbly ow?</l>
+                  <l>Let <hi>Thanks</hi> to GOD, and <hi>Honour</hi> to the <hi>King</hi>
+                  </l>
+                  <l>Our <hi>Parliaments</hi> and our <hi>Aſſemblies</hi> Sing.</l>
+               </lg>
+               <lg n="8">
+                  <head>(8)</head>
+                  <l>
+                     <label>T</label> Then let the King, his Majeſty Condole</l>
+                  <l>The loſs of our Great <hi>Northern Artick Pole,</hi>
+                  </l>
+                  <l>Our <hi>Caledonian</hi> and our <hi>Albion Fleet,</hi>
+                  </l>
+                  <l>And come and view, how <hi>Scotland</hi> now doth weep,</l>
+                  <l>For <hi>Providence's Procedure</hi> 'gainſt the <hi>Trade</hi>
+                  </l>
+                  <l>Whoſe riſing would have made thy <hi>Subjects</hi> glad.</l>
+               </lg>
+               <lg n="9">
+                  <head>(9)</head>
+                  <l>
+                     <label>U</label> Unto <hi>Deſpair,</hi> Poor <hi>SCOTLAND</hi> fainteth now,</l>
+                  <l>And longs to ſee thy MAJESTY to do</l>
+                  <l>It Right, and Juſtice, in a <hi>Purer-Senſe,</hi>
+                  </l>
+                  <l>Than <hi>Faint-Addreſses</hi> ſent with <hi>Reverence.</hi>
+                  </l>
+                  <pb n="5" facs="tcp:180215:3"/>
+                  <l>Since no <hi>Petitions</hi> by Our COMPANIE,</l>
+                  <l>Could move the <hi>Angles,</hi> with <hi>SCOTS</hi> to agree.</l>
+               </lg>
+               <lg n="10">
+                  <head>(10)</head>
+                  <l>
+                     <label>D</label> 
+                     <hi>Danger</hi> and <hi>Loſs,</hi> and <hi>Grief,</hi> and <hi>Fear</hi> prevail,</l>
+                  <l>Of <hi>DARIEN TRADE,</hi> of Our St. <hi>Andrews</hi> Sail,</l>
+                  <l>Of <hi>Edinburghs-Burning,</hi> and <hi>Kirk Regiſters,</hi>
+                  </l>
+                  <l>Of <hi>Parliament</hi>'s-<hi>Adjournments,</hi> are Our <hi>Cares;</hi>
+                  </l>
+                  <l>Come, <hi>Noble Hero,</hi> moſt Illuſtrious KING,</l>
+                  <l>Sail o're the <hi>Main,</hi> and take a <hi>Turtles-Wing.</hi>
+                  </l>
+               </lg>
+               <lg n="11">
+                  <head>(11)</head>
+                  <l>
+                     <label>E</label> Except thy yet more <hi>Preſſing-hot</hi> Affairs,</l>
+                  <l>Detain Thee not in <hi>Holland, Loo,</hi> thy <hi>Fears;</hi>
+                  </l>
+                  <l>Come down to SCOTLAND, and be Crowned here</l>
+                  <l>Let no <hi>Advice</hi> Suſpend <hi>Thee,</hi> nor a <hi>Tear:</hi>
+                  </l>
+                  <l>But come like <hi>Alexander,</hi> kind <hi>Serene,</hi>
+                  </l>
+                  <l>Thy MAJESTIE, and <hi>Court</hi> we'll Entertain.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>SCOTLANDS firſt <hi>Addreſs</hi> to the KING.</head>
+               <l>
+                  <hi>I</hi>F I had <hi>Clouds,</hi> and could the ſame Preſerve,</l>
+               <l>
+                  <hi>N</hi>othing from <hi>Fears</hi> ſhould cauſe my Motion Swerve;</l>
+               <l>
+                  <hi>G</hi>rant me the Treaſures of the <hi>Main</hi> to keep,</l>
+               <l>
+                  <hi>R</hi>ich Floods of <hi>Tears,</hi> will Teſtifie, I Weep;</l>
+               <l>
+                  <hi>A</hi>nd ſhall my <hi>Grief,</hi> be Quarrellous or Mute,</l>
+               <l>
+                  <hi>T</hi>o Pray to GOD, who ſees me <hi>Deſtitute!</hi>
+               </l>
+               <l>
+                  <hi>I</hi>f little ſhows my <hi>Face,</hi> my <hi>Minds</hi> intent,</l>
+               <l>
+                  <hi>T</hi>hen <hi>Smile</hi> when <hi>Griev'd,</hi> when <hi>Pleas'd,</hi> I will <hi>Lament.</hi>
+               </l>
+               <l>
+                  <hi>U</hi>nleſs my <hi>Groans,</hi> my <hi>Sighs,</hi> and <hi>Tears</hi> the KING,</l>
+               <l>
+                  <hi>D</hi>iſpell, and Cauſe our Cities <hi>Bells</hi> to Ring,</l>
+               <l>
+                  <hi>E</hi>nter my <hi>Sorrows</hi> now and mount the Wing.</l>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:180215:4"/>
+               <head>
+                  <hi>Scotland</hi>'s, or <hi>Affrica Companys</hi> ſecond Addreſs to the King.</head>
+               <l>
+                  <hi>I</hi>F it be Vain Our <hi>Loſſes</hi> to Deplore,</l>
+               <l>
+                  <hi>N</hi>ow Tears are empty, let us Weep no more,</l>
+               <l>
+                  <hi>G</hi>o tell thy KING, thy <hi>Mind</hi> and thy <hi>Deſire,</hi>
+               </l>
+               <l>
+                  <hi>R</hi>eaſon the Matter, <hi>Charity</hi> 'll inſpire,</l>
+               <l>
+                  <hi>A Gen'rous Soul</hi> to liſten, hear and ſay,</l>
+               <l>
+                  <hi>T</hi>hy Modeſt Sute, <hi>(ADDRESSES)</hi> well obey,</l>
+               <l>
+                  <hi>I</hi>f it be Vain, thy other <hi>Pains</hi> to tell,</l>
+               <l>
+                  <hi>T</hi>ill Thy <hi>Addreſs,</hi> with Mounting <hi>Wings</hi> can Sail,</l>
+               <l>
+                  <hi>U</hi>nder Thy <hi>Cover,</hi> Shelter thou thine Head</l>
+               <l>
+                  <hi>D</hi>eny to Speak, but look as Thou were Dead,</l>
+               <l>
+                  <hi>E</hi>xcept Thy <hi>Wounds</hi> a PARLIAMENT Remeid.</l>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Scotland</hi>'s, or <hi>African-Company</hi>'s Third and laſt <hi>Addreſs</hi> to His Majeſty, preſented by the Lord <hi>Roſs,</hi> and others.</head>
+               <l>
+                  <hi>I</hi>F all my <hi>Suffrings</hi> no Compaſſion move,</l>
+               <l>
+                  <hi>N</hi>or yet perſwade the <hi>Angles</hi> Us to Love;</l>
+               <l>
+                  <hi>G</hi>ood GOD Protect us, KING and <hi>Parliament!</hi>
+               </l>
+               <l>
+                  <hi>R</hi>ecoile, O SCOTLAND, View thy <hi>Baniſhment:</hi>
+               </l>
+               <l>
+                  <hi>A</hi>h! if Our <hi>Sorrows</hi> had a Parallel,</l>
+               <l>
+                  <hi>T</hi>aught by <hi>Example,</hi> I ſhould bear them well,</l>
+               <pb n="7" facs="tcp:180215:4"/>
+               <l> 
+                  <hi>I</hi>f my baſe <hi>Slav'ry</hi> is alone my Blame,</l>
+               <l>
+                  <hi>T</hi>hen leſs to be Bewail'd with <hi>Tears,</hi> than ſhame,</l>
+               <l>
+                  <hi>U</hi>nder this <hi>Toke</hi> by <hi>Magick,</hi> am I bound?</l>
+               <l>
+                  <hi>D</hi>o <hi>Sun, Moon, Stars,</hi> in Circle go the Round,</l>
+               <l>
+                  <hi>E</hi>xcept I <hi>Move</hi> and <hi>Act,</hi> I'le gain no Ground.</l>
+            </div>
+            <div type="part">
+               <head>A DIALOGUE, Betwixt KING, Houſe of PEERS, the PAR<g ref="char:EOLhyphen"/>LIAMFNT, and Houſe of <hi>COMMONS.</hi> called <hi>Burrows</hi> by the Author.</head>
+               <lg>
+                  <l>
+                     <hi>K</hi>Ind <hi>Council, Peers, and Parliament.</hi> You ſee,</l>
+                  <l>
+                     <hi>I</hi>'m Deafed with <hi>Sighs</hi> of <hi>Scotland</hi>'s Miſerie;</l>
+                  <l>
+                     <hi>N</hi>ow ſolve me where to fix my <hi>Doubtfull Love,</hi>
+                  </l>
+                  <l>
+                     <hi>G</hi>rant me my <hi>Wiſh,</hi> or let my Pity Move.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>P</hi>Rince, King, <hi>Dread Soveraign, Monarch</hi> of our Lands,</l>
+                  <l>
+                     <hi>A</hi>nd ſole <hi>Protector</hi> of Our <hi>Hearts</hi> and <hi>Hands;</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <hi>R</hi>eaſon, Religion, Faith, Love, Charitie,</hi>
+                  </l>
+                  <l>
+                     <hi>L</hi>y hid to <hi>England,</hi> if it loſe <hi>Pietie:</hi>
+                  </l>
+                  <l>
+                     <hi>I</hi>f we can ne're Embrace <hi>Scots</hi> in our <hi>Arms</hi>
+                  </l>
+                  <l>
+                     <hi>A</hi>nd ne're be darted by their <hi>Wounds</hi> and <hi>Charms;</hi>
+                  </l>
+                  <l>
+                     <hi>M</hi>uſt <hi>generous England</hi> ever Soar above</l>
+                  <l>
+                     <hi>E</hi>xtreamly <hi>ſilent</hi> and yet <hi>ardent</hi> Love?</l>
+                  <l>
+                     <hi>N</hi>o ſurely: let the <hi>King</hi> grant their <hi>Requeſt,</hi>
+                  </l>
+                  <l>
+                     <hi>T</hi>hat kind led <hi>Fires</hi> of <hi>Love</hi> within our <hi>Breaſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:180215:5"/>
+                  <l>
+                     <hi>B</hi>Enign, <hi>Kind Monarch</hi> of our <hi>Lands</hi> and <hi>Hearts</hi>
+                  </l>
+                  <l>
+                     <hi>U</hi>nto thy <hi>Goodneſs</hi> we ow <hi>Trade</hi> and <hi>Arts;</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <hi>R</hi>eligion,</hi> freedom from the <hi>Maſs</hi> and <hi>Charm</hi>
+                  </l>
+                  <l>
+                     <hi>R</hi>iſing from <hi>four pound Proſelyts</hi> to harm:</l>
+                  <lg>
+                     <l>
+                        <hi>O</hi>h! come and view our <hi>Citys;</hi> Crown <hi>thy ſelf.</hi>
+                     </l>
+                     <l>
+                        <hi>W</hi>hy we be <hi>Loyal,</hi> though we have no Wealth.</l>
+                     <l>
+                        <hi>Scotland</hi>'s <hi>poor ſoil</hi> will not <hi>prejudge</hi> thy <hi>Health</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Authors Wiſh or De<g ref="char:EOLhyphen"/>ſiderium.</head>
+               <l>
+                  <hi>
+                     <hi>D</hi>eſires</hi> are <hi>faint</hi> yet <hi>Languiſhing</hi> they be,</l>
+               <l>
+                  <hi>E</hi>v'n when <hi>poſſes'd</hi> they cannot <hi>ſatisfie.</hi>
+               </l>
+               <l>
+                  <hi>Sorrow</hi> and <hi>Fear</hi> torment the <hi>Soul</hi> by turns,</l>
+               <l>
+                  <hi>I</hi>f both concur, behold the <hi>Fever</hi> burns.</l>
+               <l>
+                  <hi>Diſtance</hi> and <hi>Abſence</hi> may retard our <hi>Love</hi>
+               </l>
+               <l>
+                  <hi>E</hi>v'n <hi>preſent</hi> Joy our <hi>Conſtancie</hi> doth prove.</l>
+               <l>
+                  <hi>Reaſon</hi> and <hi>Wit</hi> a kindly <hi>Sympathie</hi>
+               </l>
+               <l>
+                  <hi>I</hi>ndu'd with <hi>Love</hi> alſo with <hi>Charity,</hi>
+               </l>
+               <l>
+                  <hi>U</hi>nder my <hi>Croſs</hi> or <hi>Comfort</hi> ſhall excell</l>
+               <l>
+                  <hi>M</hi>ore then they who like <hi>China</hi> proudly ſwell.</l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
